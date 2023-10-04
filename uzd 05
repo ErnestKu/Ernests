@@ -1,0 +1,13 @@
+def main():
+    nauda = nauda_to_float(input("cik maksā pusdienas?"))
+    procenti_to_float = procenti_to_float(input("cik procentus tu gribetu atdot?"))
+    tip = nauda*procenti_to_float
+    print(f"Leave ${tip:2f}")
+
+    def nauda_to_float(d):
+        str(input(nauda_to_float))
+
+    def procenti_to_float(p):
+        input(input(procenti_to_float))
+
+main()
