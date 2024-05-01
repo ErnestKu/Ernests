@@ -1,0 +1,4 @@
+masa_kg = int(input("Īevadi masu kg"))
+masa_kg = masa_kg * 90000000000000000
+masa_kg_vesels = int(masa_kg)
+print("masa ir:", masa_kg_vesels)

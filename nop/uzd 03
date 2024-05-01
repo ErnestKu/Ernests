@@ -1,0 +1,4 @@
+ziņu = input("ievadi ziņu")
+emoji_ziņa = ziņu.replace(":)",
+"🙂").replace(":(","😞")
+print(emoji_ziņa)

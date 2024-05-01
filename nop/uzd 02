@@ -1,0 +1,3 @@
+word = "hello world"
+spaced_words ="... ".join(word)
+print(spaced_words)
